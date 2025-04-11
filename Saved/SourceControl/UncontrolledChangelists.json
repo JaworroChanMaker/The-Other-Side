@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/OldWest/VOL4/Meshes/SM_Dishes_NN_01b.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/HouseOfChangwon/Meshes/Building_Stairs/SM_Stair_1.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Blueprints/Game/Level1/L1_Character.uasset",
 				"D:/Unreal Engine/Projects/The-Other-Side/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine/Projects/The-Other-Side/Content/Maps/Map.umap",
 				"D:/Unreal Engine/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
