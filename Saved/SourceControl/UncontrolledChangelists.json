@@ -17,6 +17,7 @@
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/StarterContent/Props/SM_Door.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Audio/Monster/Scream_SC.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Blueprints/Actors/BP_Mirror.uasset",
+<<<<<<< HEAD
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Vefects/Stylized_Female_Character_Vexa/Maps/Overview_BuiltData.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Vefects/Stylized_Female_Character_Vexa/SK/Vefects_Vexa.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Vefects/Stylized_Female_Character_Vexa/SK/Vefects_Vexa_Skeleton.uasset",
@@ -180,6 +181,11 @@
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Models/Vefects/Stylized_Female_Character_Vexa/SK/Vefects_Vexa_Skeleton.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Models/Vefects/Stylized_Female_Character_Vexa/SK/Vefects_Vexa.uasset",
 				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Models/Vefects/Stylized_Female_Character_Vexa/Meshes/Vefects_Vexa.uasset"
+=======
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Blueprints/Actors/Messages/BP_Hint_Tutorial.uasset",
+				"C:/Users/mikir/OneDrive/Pulpit/The-Other-Side/Content/Maps/Programming_Basement.umap"
+>>>>>>> main
 			]
 		}
 	]
